@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "powerbi-custom-visual-skill",
+  "description": "Claude Code skill for building Power BI custom visuals that behave like native ones",
+  "owner": { "name": "Lesley Silbernberg" },
+  "metadata": {
+    "description": "Claude Code skill for building Power BI custom visuals that behave like native ones",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "powerbi-custom-visual",
+      "source": "./plugins/powerbi-custom-visual",
+      "description": "Build Power BI custom visuals end to end: cross-filtering, theme colours, on-object formatting, a native-feeling format pane, a render harness, and DirectQuery at scale.",
+      "version": "1.0.0",
+      "author": { "name": "Lesley Silbernberg" },
+      "repository": "https://github.com/Lesleybs2/powerbi-custom-visual-skill",
+      "license": "MIT",
+      "keywords": ["power-bi", "powerbi", "custom-visuals", "pbiviz", "directquery", "data-visualization", "typescript"],
+      "category": "development"
+    }
+  ]
+}

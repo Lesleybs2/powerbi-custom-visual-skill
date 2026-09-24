@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Power BI Custom Visual Skill for Claude Code">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B1A19"/>
+      <stop offset="1" stop-color="#2D2A26"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#E8B600"/>
+      <stop offset="1" stop-color="#F2C811"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <!-- chart motif: bars rising into a hexagon grid, the two things the skill builds -->
+  <g transform="translate(900 70)">
+    <rect x="0"   y="150" width="44" height="90"  rx="6" fill="url(#bar)" opacity="0.55"/>
+    <rect x="60"  y="100" width="44" height="140" rx="6" fill="url(#bar)" opacity="0.75"/>
+    <rect x="120" y="40"  width="44" height="200" rx="6" fill="url(#bar)"/>
+    <g fill="none" stroke="#D97757" stroke-width="3" opacity="0.9">
+      <path d="M232 60 l26 15 v30 l-26 15 l-26 -15 v-30 z"/>
+      <path d="M284 60 l26 15 v30 l-26 15 l-26 -15 v-30 z"/>
+      <path d="M258 105 l26 15 v30 l-26 15 l-26 -15 v-30 z"/>
+      <path d="M310 105 l26 15 v30 l-26 15 l-26 -15 v-30 z" opacity="0.5"/>
+      <path d="M232 150 l26 15 v30 l-26 15 l-26 -15 v-30 z" opacity="0.5"/>
+    </g>
+    <circle cx="258" cy="135" r="7" fill="#D97757"/>
+  </g>
+  <text x="72" y="150" fill="#FFFFFF" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="58" font-weight="700">Power BI Custom Visual Skill</text>
+  <text x="72" y="204" fill="#F2C811" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">for Claude Code and other coding agents</text>
+  <text x="72" y="262" fill="#C8C6C4" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="22">Native-feeling visuals · on-object formatting · theme colours · DirectQuery at scale</text>
+</svg>

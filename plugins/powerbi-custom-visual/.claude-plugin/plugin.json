@@ -1,0 +1,10 @@
+{
+  "name": "powerbi-custom-visual",
+  "version": "1.0.0",
+  "description": "Build Power BI custom visuals end to end: cross-filtering, theme colours, on-object formatting, a native-feeling format pane, a render harness, and DirectQuery at scale.",
+  "author": { "name": "Lesley Silbernberg" },
+  "repository": "https://github.com/Lesleybs2/powerbi-custom-visual-skill",
+  "license": "MIT",
+  "keywords": ["power-bi", "powerbi", "custom-visuals", "pbiviz", "directquery", "data-visualization", "typescript"],
+  "skills": "./skills/"
+}
