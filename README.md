@@ -163,15 +163,18 @@ behind it, and the fix.
 ## Author
 
 Built by **Lesley Silbernberg**, Head of Data and analytics engineer, specialised in **Power BI and
-Databricks**. Lesley builds scalable data teams and systems for start-ups and scale-ups: end to end from the
-lakehouse to the report, with CI/CD for Power BI and AI-assisted development to keep a small team fast.
+Databricks**, and in putting **AI to work in data teams**. Lesley builds scalable data teams and systems for
+start-ups and scale-ups: end to end from the lakehouse to the report, with CI/CD for Power BI and AI agents
+that do real engineering work alongside the team.
 
-This skill is what that looks like in practice: Power BI that performs at scale, tooling that makes a team
-faster, and knowledge written down so nobody has to learn it twice.
+This skill is what that looks like in practice: an AI coding agent that builds production Power BI visuals,
+because the knowledge it needs was written down for it. Power BI that performs at scale, tooling that makes a
+team faster, and nothing anyone has to learn twice.
 
 **Work with Lesley.** Getting started with dashboards and a data warehouse, want a second pair of eyes on a
-Power BI or Databricks setup, or have a one-off project in mind? Lesley takes on focused engagements, from a
-few hours of hands-on help to a complete project.
+Power BI or Databricks setup, or looking to bring AI into how your team works: AI-assisted development,
+agents and skills for your own stack, or automating the processes around your data? Lesley takes on focused
+engagements, from a few hours of hands-on help to a complete project.
 
 <a href="https://www.linkedin.com/in/%F0%9F%9A%80lesley-silbernberg-1a632433/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Lesley-0A66C2?logo=linkedin&logoColor=white" alt="Connect with Lesley on LinkedIn"></a>
 
