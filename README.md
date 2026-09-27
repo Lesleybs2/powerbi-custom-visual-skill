@@ -166,7 +166,9 @@ Built by **Lesley Silbernberg**, Head of Data and analytics engineer, specialise
 Databricks**, **automation**, and putting **AI to work in data teams**. Lesley builds scalable data teams and
 systems for start-ups and scale-ups: end to end from the lakehouse to the report, with the repetitive work
 automated away. Reports deploy themselves through CI/CD, data jobs run and heal on schedule, failures raise
-an alert instead of waiting to be found, and AI agents do real engineering work alongside the team.
+an alert instead of waiting to be found, and AI agents do real engineering work alongside the team. Where a
+process needs more than a script, Lesley builds the app for it: internal tools and web apps that turn a
+manual routine into one click, on top of the data the team already has.
 
 This skill is what that looks like in practice: an AI coding agent that builds production Power BI visuals,
 because the knowledge it needs was written down for it. Power BI that performs at scale, tooling that makes a
@@ -174,8 +176,9 @@ team faster, and nothing anyone has to do by hand twice.
 
 **Work with Lesley.** Getting started with dashboards and a data warehouse? Want to automate the manual steps
 around your data: deployments, refreshes, exports, checks and the reporting that someone rebuilds every
-week? Looking to bring AI into how your team works, with AI-assisted development, agents and skills for your
-own stack? Or just a second pair of eyes on a Power BI or Databricks setup? Lesley takes on focused
+week? Need an app or internal tool that takes a process off your team's hands? Looking to bring AI into how
+your team works, with AI-assisted development, agents and skills for your own stack? Or just a second pair
+of eyes on a Power BI or Databricks setup? Lesley takes on focused
 engagements, from a few hours of hands-on help to a complete project.
 
 <a href="https://www.linkedin.com/in/%F0%9F%9A%80lesley-silbernberg-1a632433/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Lesley-0A66C2?logo=linkedin&logoColor=white" alt="Connect with Lesley on LinkedIn"></a>
